@@ -3,64 +3,71 @@ package org.example;
 import org.example.exception.DanoInvalidoException;
 import org.example.personagens.Personagem;
 import org.example.util.PersonagemUtil;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.Scanner;
 
 import static org.example.util.GraphicsUtil.getBoasVindas;
 import static org.example.util.GraphicsUtil.getMenu;
 
-
 public class Main {
+
+    private static final Logger logger = LoggerFactory.getLogger(Main.class);
+
     public static void main(String[] args) {
         getBoasVindas();
         Scanner scanner = new Scanner(System.in);
+        logger.info("Digite o nickname:");
         String nickname = scanner.next();
         getMenu();
+        logger.info("Escolha do Herói:");
         int escolhaHeroi = scanner.nextInt();
         PersonagemUtil personagemUtil = new PersonagemUtil();
 
         Personagem heroi = personagemUtil.getHeroi(escolhaHeroi);
         Personagem monstro = personagemUtil.getMonstro();
         int quantidadeDeRodadas = 0;
+
         while (batalhaAtiva(heroi, monstro)) {
             quantidadeDeRodadas++;
             int iniciativaHeroi;
             int iniciativaMonstro;
 
-            do{
+            do {
                 iniciativaHeroi = heroi.calcularIniciativa();
                 iniciativaMonstro = monstro.calcularIniciativa();
-            }while (iniciativaHeroi == iniciativaMonstro);
-            Personagem atacante,defensor;
+            } while (iniciativaHeroi == iniciativaMonstro);
 
-            if(iniciativaHeroi > iniciativaMonstro){
+            Personagem atacante, defensor;
+
+            if (iniciativaHeroi > iniciativaMonstro) {
                 atacante = heroi;
                 defensor = monstro;
-            }else {
+            } else {
                 atacante = monstro;
                 defensor = heroi;
             }
 
-            if(conseguiuAtacar(atacante, defensor)){
-                System.out.printf("%s ATACOU \n", atacante.getClasse());
+            if (conseguiuAtacar(atacante, defensor)) {
+                logger.info("{} ATACOU", atacante.getClasse());
                 int dano = atacante.calcularFatorDeDano();
-                try{
+                try {
                     defensor.sofrerDano(dano);
-                }catch (DanoInvalidoException ex){
+                } catch (DanoInvalidoException ex) {
                     defensor.sofrerDano(1);
                 }
 
-            }else {
-                System.out.println("Atacante não teve sucesso!");
+            } else {
+                logger.info("Atacante não teve sucesso!");
             }
         }
-        if(monstro.getPontosDeVida() <= 0){
-            System.out.printf("%s Venceu em: %d rodadas \n", heroi.getClasse(), quantidadeDeRodadas);
-            //Heroi venceu
-        }else {
-            System.out.printf("%s Venceu em: %d rodadas \n", heroi.getClasse(), quantidadeDeRodadas);
-        }
 
+        if (monstro.getPontosDeVida() <= 0) {
+            logger.info("{} {} Venceu em: {} rodadas", heroi.getClasse(), nickname, quantidadeDeRodadas);
+        } else {
+            logger.info("{} Venceu em: {} rodadas", heroi.getClasse(), quantidadeDeRodadas);
+        }
     }
 
     private static boolean batalhaAtiva(Personagem heroi, Personagem monstro) {

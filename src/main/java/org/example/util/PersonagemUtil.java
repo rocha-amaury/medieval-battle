@@ -1,50 +1,59 @@
 package org.example.util;
 
 import org.example.personagens.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-import java.util.*;
+import java.util.List;
+import java.util.Random;
 
 public class PersonagemUtil {
+    private static final Logger logger = LoggerFactory.getLogger(PersonagemUtil.class);
+
     public Personagem getHeroi(int escolhaHeroi) {
-        try{
+        try {
             List<Personagem> personagens = List.of(new Guerreiro(), new Barbaro(), new Paladino());
             return personagens.get(escolhaHeroi - 1);
-        }catch (ArrayIndexOutOfBoundsException ex){
-            System.out.println("Escolha inválida Guerreiro escolhido por padrão");
+        } catch (ArrayIndexOutOfBoundsException ex) {
+            logger.warn("Escolha inválida. Guerreiro escolhido por padrão.");
             return new Guerreiro();
         }
     }
+
     public Personagem getHeroiComIf(int escolhaHeroi) {
         Personagem heroi;
-        if(escolhaHeroi == 1){
+        if (escolhaHeroi == 1) {
             heroi = new Guerreiro();
-        }else if(escolhaHeroi == 2){
+        } else if (escolhaHeroi == 2) {
             heroi = new Barbaro();
-        }else if(escolhaHeroi == 3){
+        } else if (escolhaHeroi == 3) {
             heroi = new Paladino();
-        }else {
-            System.out.println("Escolha inválida Guerreiro escolhido por padrão");
+        } else {
+            logger.warn("Escolha inválida. Guerreiro escolhido por padrão.");
             heroi = new Guerreiro();
         }
         return heroi;
     }
+
     public Personagem getHeroiComSwitchAntesJava14(int escolhaHeroi) {
         Personagem heroi;
-        switch (escolhaHeroi){
-            case 1: heroi = new Guerreiro(); break;
-            case 2: heroi = new Barbaro(); break;
-            case 3: heroi = new Paladino(); break;
-            default: heroi = new Guerreiro(); break;
+        switch (escolhaHeroi) {
+            case 1:
+                heroi = new Guerreiro();
+                break;
+            case 2:
+                heroi = new Barbaro();
+                break;
+            case 3:
+                heroi = new Paladino();
+                break;
+            default:
+                logger.warn("Escolha inválida. Guerreiro escolhido por padrão.");
+                heroi = new Guerreiro();
+                break;
         }
         return heroi;
     }
-//    public Personagem getHeroiComSwitchPosJava14(int escolhaHeroi) {
-//        return  switch (escolhaHeroi){
-//            case 2 -> new Barbaro();
-//            case 3 -> new Paladino();
-//            default -> new Guerreiro();
-//        };
-//    }
 
     public Personagem getMonstro() {
         List<Personagem> monstros = List.of(new Orc(), new Kobold(), new MortoVivo());
