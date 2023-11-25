@@ -70,8 +70,4 @@ public class Main {
     private static boolean conseguiuAtacar(Personagem atacante, Personagem defensor) {
         return atacante.calcularFatorDeAtaque() > defensor.calcularFatorDeDefesa();
     }
-
-
-
-
 }
