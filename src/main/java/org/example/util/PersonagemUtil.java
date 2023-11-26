@@ -15,7 +15,8 @@ public class PersonagemUtil {
             List<Personagem> personagens = List.of(new Guerreiro(), new Barbaro(), new Paladino());
             return personagens.get(escolhaHeroi - 1);
         } catch (ArrayIndexOutOfBoundsException ex) {
-            logger.warn("Escolha inválida. Guerreiro escolhido por padrão.");
+            logger.error("Escolha inválida.");
+            logger.warn("Guerreiro escolhido por padrão.");
             return new Guerreiro();
         }
     }
@@ -29,7 +30,8 @@ public class PersonagemUtil {
         } else if (escolhaHeroi == 3) {
             heroi = new Paladino();
         } else {
-            logger.warn("Escolha inválida. Guerreiro escolhido por padrão.");
+            logger.error("Escolha inválida.");
+            logger.warn("Guerreiro escolhido por padrão.");
             heroi = new Guerreiro();
         }
         return heroi;
@@ -48,7 +50,8 @@ public class PersonagemUtil {
                 heroi = new Paladino();
                 break;
             default:
-                logger.warn("Escolha inválida. Guerreiro escolhido por padrão.");
+                logger.error("Escolha inválida.");
+                logger.warn("Guerreiro escolhido por padrão.");
                 heroi = new Guerreiro();
                 break;
         }

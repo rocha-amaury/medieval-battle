@@ -40,7 +40,8 @@ public class Main {
             } while (iniciativaHeroi == iniciativaMonstro);
 
             Personagem atacante, defensor;
-
+            logger.debug("Iniciativa do {} é {}", heroi.getClasse(), iniciativaHeroi);
+            logger.debug("Iniciativa do {} é {}", monstro.getClasse(), iniciativaMonstro);
             if (iniciativaHeroi > iniciativaMonstro) {
                 atacante = heroi;
                 defensor = monstro;

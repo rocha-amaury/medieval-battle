@@ -91,3 +91,313 @@
 2023-11-25 05:55:05.713 [main] INFO  org.example.Main - Guerreiro ATACOU
 2023-11-25 05:55:05.714 [main] INFO  org.example.Main - Guerreiro ATACOU
 2023-11-25 05:55:05.714 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 9 rodadas
+2023-11-26 03:32:29.644 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:32:29.697 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:32:29.697 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:32:29.697 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:32:29.739 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:32:43.383 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:32:43.384 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:32:43.386 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:32:43.387 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:32:43.388 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:32:43.389 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:32:43.390 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:32:47.875 [main] WARN  org.example.util.PersonagemUtil - Escolha inválida. Guerreiro escolhido por padrão.
+2023-11-26 03:32:47.900 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:32:47.908 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:32:47.909 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:32:47.909 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:32:47.910 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:32:47.910 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 5 rodadas
+2023-11-26 03:35:06.887 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:35:06.897 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:35:06.898 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:35:06.899 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:35:06.940 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:35:12.125 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:35:12.127 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:35:12.128 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:35:12.129 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:35:12.130 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:35:12.131 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:35:12.132 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:35:14.876 [main] WARN  org.example.util.PersonagemUtil - Escolha inválida. Guerreiro escolhido por padrão.
+2023-11-26 03:35:14.888 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:35:14.896 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:35:14.897 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:35:14.897 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:35:14.898 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:35:14.898 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:35:14.898 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:35:14.899 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:35:14.899 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 8 rodadas
+2023-11-26 03:36:12.647 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:36:12.659 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:36:12.660 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:36:12.660 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:36:12.710 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:36:20.118 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:36:20.119 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:36:20.120 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:36:20.121 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:36:20.122 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:36:20.123 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:36:20.123 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:37:53.342 [main] WARN  org.example.util.PersonagemUtil - Escolha inválida. Guerreiro escolhido por padrão.
+2023-11-26 03:37:53.355 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:37:53.356 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:37:53.364 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:37:53.365 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:37:53.366 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:37:53.366 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:37:53.367 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:37:53.367 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:37:53.367 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:37:53.368 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:37:53.368 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:37:53.368 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:37:53.369 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:37:53.370 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:37:53.371 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 14 rodadas
+2023-11-26 03:38:16.814 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:38:16.827 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:38:16.828 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:38:16.829 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:38:16.893 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:38:22.949 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:38:22.950 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:38:22.951 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:38:22.952 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:38:22.953 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:38:22.954 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:38:22.955 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:38:24.643 [main] WARN  org.example.util.PersonagemUtil - Escolha inválida. Guerreiro escolhido por padrão.
+2023-11-26 03:38:24.659 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:38:24.672 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:38:24.673 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:38:24.674 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:38:24.675 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:38:24.676 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:38:24.677 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:38:24.679 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:38:24.680 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:38:24.682 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:38:24.683 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:38:24.684 [main] INFO  org.example.Main - Guerreiro a Venceu em: 11 rodadas
+2023-11-26 03:39:57.292 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:43:54.124 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:43:54.126 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:43:54.130 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:43:54.428 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:44:05.243 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:44:05.246 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:44:05.248 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:44:05.251 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:44:05.253 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:44:05.256 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:44:05.258 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:44:09.397 [main] WARN  org.example.util.PersonagemUtil - Escolha inválida. Guerreiro escolhido por padrão.
+2023-11-26 03:44:09.422 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:44:09.444 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:44:09.447 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:44:09.451 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:44:09.455 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:44:09.461 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:44:09.466 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:44:09.469 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:44:09.472 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:44:09.475 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:44:09.480 [main] INFO  org.example.Main - Guerreiro a Venceu em: 10 rodadas
+2023-11-26 03:45:09.580 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:45:09.589 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:45:09.590 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:45:09.591 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:45:09.632 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:45:14.126 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:45:14.128 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:45:14.129 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:45:14.130 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:45:14.131 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:45:14.132 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:45:14.133 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:45:16.752 [main] ERROR org.example.util.PersonagemUtil - Escolha inválida.
+2023-11-26 03:45:16.754 [main] WARN  org.example.util.PersonagemUtil - Guerreiro escolhido por padrão.
+2023-11-26 03:45:16.765 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:45:16.772 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:45:16.773 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:45:16.773 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:45:16.774 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:45:16.774 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:45:16.774 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:45:16.775 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 7 rodadas
+2023-11-26 03:50:36.809 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:50:36.827 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:50:36.828 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:50:36.829 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:50:36.898 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:50:42.651 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:50:42.653 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:50:42.654 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:50:42.655 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:50:42.656 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:50:42.657 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:50:42.658 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:57:02.521 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.551 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.554 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.556 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.558 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.561 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.563 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.566 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.569 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.572 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.574 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.576 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.579 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:57:02.582 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.584 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.587 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.589 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.591 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.594 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.596 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.600 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.602 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.605 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.608 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.610 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.612 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.616 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.619 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.621 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.624 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.626 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.629 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.634 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:57:02.639 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.643 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.648 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.651 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:57:02.654 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:57:02.656 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:57:02.658 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 39 rodadas
+2023-11-26 03:57:20.181 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:57:20.193 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:57:20.194 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:57:20.194 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:57:20.268 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:57:23.888 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:57:23.890 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:57:23.892 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:57:23.893 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:57:23.894 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:57:23.895 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:57:23.896 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:57:32.493 [main] ERROR org.example.util.PersonagemUtil - Escolha inválida.
+2023-11-26 03:57:32.495 [main] WARN  org.example.util.PersonagemUtil - Guerreiro escolhido por padrão.
+2023-11-26 03:57:38.423 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 7
+2023-11-26 03:57:41.455 [main] DEBUG org.example.Main - Iniciativa do Kobold é 12
+2023-11-26 03:58:04.837 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:58:14.135 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 8
+2023-11-26 03:58:14.387 [main] DEBUG org.example.Main - Iniciativa do Kobold é 9
+2023-11-26 03:58:36.233 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:58:36.237 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 13
+2023-11-26 03:58:36.243 [main] DEBUG org.example.Main - Iniciativa do Kobold é 10
+2023-11-26 03:58:36.246 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:58:36.250 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 7
+2023-11-26 03:58:36.255 [main] DEBUG org.example.Main - Iniciativa do Kobold é 12
+2023-11-26 03:58:36.257 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:58:36.260 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 4
+2023-11-26 03:58:36.263 [main] DEBUG org.example.Main - Iniciativa do Kobold é 5
+2023-11-26 03:58:36.267 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:58:36.271 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 6
+2023-11-26 03:58:36.275 [main] DEBUG org.example.Main - Iniciativa do Kobold é 12
+2023-11-26 03:58:36.278 [main] INFO  org.example.Main - Kobold ATACOU
+2023-11-26 03:58:36.281 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 8
+2023-11-26 03:58:36.284 [main] DEBUG org.example.Main - Iniciativa do Kobold é 7
+2023-11-26 03:58:36.287 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:58:36.291 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 10
+2023-11-26 03:58:36.297 [main] DEBUG org.example.Main - Iniciativa do Kobold é 9
+2023-11-26 03:58:36.302 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:58:36.305 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 7
+2023-11-26 03:58:36.312 [main] DEBUG org.example.Main - Iniciativa do Kobold é 8
+2023-11-26 03:58:36.317 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:58:36.320 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 12
+2023-11-26 03:58:36.326 [main] DEBUG org.example.Main - Iniciativa do Kobold é 8
+2023-11-26 03:58:36.331 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:58:36.336 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 10 rodadas
+2023-11-26 03:58:42.733 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:58:42.742 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:58:42.743 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:58:42.744 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:58:42.778 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:58:51.400 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:58:51.401 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:58:51.402 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:58:51.403 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:58:51.404 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:58:51.405 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:58:51.405 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:58:54.281 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 8
+2023-11-26 03:58:54.289 [main] DEBUG org.example.Main - Iniciativa do Orc é 12
+2023-11-26 03:58:54.290 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:58:54.291 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 10
+2023-11-26 03:58:54.292 [main] DEBUG org.example.Main - Iniciativa do Orc é 3
+2023-11-26 03:58:54.292 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:58:54.293 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 9
+2023-11-26 03:58:54.294 [main] DEBUG org.example.Main - Iniciativa do Orc é 4
+2023-11-26 03:58:54.294 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:58:54.295 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 4
+2023-11-26 03:58:54.295 [main] DEBUG org.example.Main - Iniciativa do Orc é 12
+2023-11-26 03:58:54.296 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:58:54.296 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 10
+2023-11-26 03:58:54.296 [main] DEBUG org.example.Main - Iniciativa do Orc é 8
+2023-11-26 03:58:54.297 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:58:54.297 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 5 rodadas
+2023-11-26 03:59:09.392 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:59:09.403 [main] INFO  org.example.util.GraphicsUtil - Bem vindo ao Medieval Battle
+2023-11-26 03:59:09.404 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:59:09.404 [main] INFO  org.example.util.GraphicsUtil - Digite Seu nickname:
+2023-11-26 03:59:09.446 [main] INFO  org.example.Main - Digite o nickname:
+2023-11-26 03:59:28.787 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:59:28.789 [main] INFO  org.example.util.GraphicsUtil - Digite a Classe do seu herói:
+2023-11-26 03:59:28.791 [main] INFO  org.example.util.GraphicsUtil - 1 - Guerreiro
+2023-11-26 03:59:28.792 [main] INFO  org.example.util.GraphicsUtil - 2 - Bárbaro
+2023-11-26 03:59:28.793 [main] INFO  org.example.util.GraphicsUtil - 3 - Paladino
+2023-11-26 03:59:28.793 [main] INFO  org.example.util.GraphicsUtil - =============================
+2023-11-26 03:59:28.794 [main] INFO  org.example.Main - Escolha do Herói:
+2023-11-26 03:59:31.230 [main] ERROR org.example.util.PersonagemUtil - Escolha inválida.
+2023-11-26 03:59:31.232 [main] WARN  org.example.util.PersonagemUtil - Guerreiro escolhido por padrão.
+2023-11-26 03:59:31.246 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 6
+2023-11-26 03:59:31.257 [main] DEBUG org.example.Main - Iniciativa do Orc é 7
+2023-11-26 03:59:31.258 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:59:31.259 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 4
+2023-11-26 03:59:31.260 [main] DEBUG org.example.Main - Iniciativa do Orc é 8
+2023-11-26 03:59:31.261 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:59:31.262 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 6
+2023-11-26 03:59:31.263 [main] DEBUG org.example.Main - Iniciativa do Orc é 9
+2023-11-26 03:59:31.264 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:59:31.266 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 8
+2023-11-26 03:59:31.267 [main] DEBUG org.example.Main - Iniciativa do Orc é 9
+2023-11-26 03:59:31.267 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:59:31.268 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 11
+2023-11-26 03:59:31.269 [main] DEBUG org.example.Main - Iniciativa do Orc é 7
+2023-11-26 03:59:31.270 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:59:31.272 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 6
+2023-11-26 03:59:31.274 [main] DEBUG org.example.Main - Iniciativa do Orc é 7
+2023-11-26 03:59:31.275 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:59:31.276 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 8
+2023-11-26 03:59:31.277 [main] DEBUG org.example.Main - Iniciativa do Orc é 12
+2023-11-26 03:59:31.279 [main] INFO  org.example.Main - Atacante não teve sucesso!
+2023-11-26 03:59:31.280 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 11
+2023-11-26 03:59:31.281 [main] DEBUG org.example.Main - Iniciativa do Orc é 4
+2023-11-26 03:59:31.282 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:59:31.283 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 6
+2023-11-26 03:59:31.284 [main] DEBUG org.example.Main - Iniciativa do Orc é 11
+2023-11-26 03:59:31.285 [main] INFO  org.example.Main - Orc ATACOU
+2023-11-26 03:59:31.286 [main] DEBUG org.example.Main - Iniciativa do Guerreiro é 11
+2023-11-26 03:59:31.287 [main] DEBUG org.example.Main - Iniciativa do Orc é 7
+2023-11-26 03:59:31.288 [main] INFO  org.example.Main - Guerreiro ATACOU
+2023-11-26 03:59:31.289 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 10 rodadas
