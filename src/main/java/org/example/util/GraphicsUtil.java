@@ -1,18 +1,25 @@
 package org.example.util;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class GraphicsUtil {
+    private static final Logger logger = LoggerFactory.getLogger(GraphicsUtil.class);
+
     public static void getMenu() {
-        System.out.println("=============================");
-        System.out.println("Digite a Classe do seu herói:");
-        System.out.println("1 - Guerreiro");
-        System.out.println("2 - Bárbaro");
-        System.out.println("3 - Paladino");
-        System.out.println("=============================");
+        logger.info("=============================");
+        logger.info("Digite a Classe do seu herói:");
+        logger.info("1 - Guerreiro");
+        logger.info("2 - Bárbaro");
+        logger.info("3 - Paladino");
+        logger.info("=============================");
     }
-    public static void getBoasVindas(){
-        System.out.println("=============================");
-        System.out.println("Bem vindo ao Medieval Battle");
-        System.out.println("=============================");
-        System.out.println("Digite Seu nickname:");
+
+    public static void getBoasVindas() {
+        logger.info("=============================");
+        logger.info("Bem vindo ao Medieval Battle");
+        logger.info("=============================");
+        logger.info("Digite Seu nickname:");
     }
 }
+
