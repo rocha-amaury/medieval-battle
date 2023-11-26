@@ -64,4 +64,11 @@ public class PersonagemUtil {
         int escolhaMonstro = random.nextInt(2);
         return monstros.get(escolhaMonstro);
     }
+
+    public Personagem getPersonagem() {
+        List<Personagem> personagens = List.of(new Guerreiro(), new Barbaro(), new Paladino(), new Orc(), new Kobold(), new MortoVivo());
+        Random random = new Random();
+        int escolhaPersonagem = random.nextInt(5);
+        return personagens.get(escolhaPersonagem);
+    }
 }

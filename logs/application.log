@@ -401,3 +401,31 @@
 2023-11-26 03:59:31.287 [main] DEBUG org.example.Main - Iniciativa do Orc é 7
 2023-11-26 03:59:31.288 [main] INFO  org.example.Main - Guerreiro ATACOU
 2023-11-26 03:59:31.289 [main] INFO  org.example.Main - Guerreiro Amaury Venceu em: 10 rodadas
+2023-11-26 05:28:57.917 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:28:58.061 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Barbaro.
+2023-11-26 05:28:58.079 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:28:58.096 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:28:58.109 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Barbaro.
+2023-11-26 05:28:58.123 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:28:58.140 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Orc.
+2023-11-26 05:41:28.750 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Barbaro.
+2023-11-26 05:41:28.841 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:41:28.861 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Orc.
+2023-11-26 05:41:28.878 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:41:28.893 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Paladino.
+2023-11-26 05:41:28.912 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Barbaro.
+2023-11-26 05:41:28.958 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:42:33.485 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:42:33.567 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Barbaro.
+2023-11-26 05:42:33.586 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:42:33.607 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:42:33.622 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Barbaro.
+2023-11-26 05:42:33.636 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:42:33.649 [main] INFO  org.example.Main - O personagem escolhido para o teste foi do tipo Orc.
+2023-11-26 05:56:33.211 [main] INFO  org.example.PersonagemTest - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:56:33.305 [main] INFO  org.example.PersonagemTest - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:56:33.322 [main] INFO  org.example.PersonagemTest - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:56:33.338 [main] INFO  org.example.PersonagemTest - O personagem escolhido para o teste foi do tipo Barbaro.
+2023-11-26 05:56:33.351 [main] INFO  org.example.PersonagemTest - O personagem escolhido para o teste foi do tipo Kobold.
+2023-11-26 05:56:33.365 [main] INFO  org.example.PersonagemTest - O personagem escolhido para o teste foi do tipo Guerreiro.
+2023-11-26 05:56:33.378 [main] INFO  org.example.PersonagemTest - O personagem escolhido para o teste foi do tipo Guerreiro.
